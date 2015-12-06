@@ -108,7 +108,7 @@ shinyUI(navbarPage("Mass Shootings Data", id="nav",
                                     br(a('Data: Crowd-sourced data fom shootingtracker',
                                          href = 'http://shootingtracker.com/wiki/Mass_Shootings_in_2015',
                                          target = '_blank')),
-                                    br('*2015 data is through October 12, 2015'))
+                                    br('*2015 data is through December 2, 2015'))
                   ),
                   tabPanel('About', 
                            tags$br('Project Developed for:'), 
